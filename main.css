@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Varela+Round');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+
+body {
+  background: #333333;
+}
+
+.quote-boxes {
+  width: 50%;
+  border: solid 3px #878787;
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+  background: #d8d8d8;
+  margin-left: 325px;
+}
+
+input {
+  margin: 5px;
+  border: solid 2px #878787;
+  font-family: 'Varela Round', sans-serif;
+}
+
+button {
+  font-family: 'Varela Round', sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  border: solid 2px #878787;
+  margin-bottom: 10px;
+}
+
+.quote {
+  font-family: 'Dancing Script', cursive;
+  font-size: 26.5px;
+}
+
+.author {
+  font-family: 'Dancing Script', cursive;
+  font-size: 22px;
+}
